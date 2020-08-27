@@ -1,6 +1,7 @@
 # QuizApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+This is another beginner level Angular project for the beginners looking for a angular project. This is a Quiz Website in which the user is given several multiple choice questions along with options , and then at the end the score is given to the user.The projects leverages the concepts of Angular Components , Routing and Services .For the UI , materilized css is used .
 
 ## Development server
 
